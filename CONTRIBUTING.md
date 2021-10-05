@@ -89,3 +89,9 @@ the [GitHubs docs](https://docs.github.com/en).
 
 Now that you are part of the GitHub docs community, see how else you
 can [contribute to the docs](/contributing/types-of-contributions.md).
+
+## Attribution
+
+This Contribution guide is adapted from the [GitHub
+Docs](https://docs.github.com/en) Contributing guide available at
+[https://github.com/github/docs/blob/main/CONTRIBUTING.md](https://github.com/github/docs/blob/main/CONTRIBUTING.md)
