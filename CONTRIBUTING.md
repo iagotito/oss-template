@@ -69,21 +69,9 @@ pratices for commit messages.
 ### Pull Request
 
 When you're finished with the changes, create a pull request, also
-known as a PR.
-
-> TODO: a todo list to send the PR
-
-### Your PR is merged!
-
-> Is that necessary?
-
-Congratulations :tada::tada: The GitHub team thanks you :sparkles:.
-
-Once your PR is merged, your contributions will be publicly visible on
-the [GitHubs docs](https://docs.github.com/en). 
-
-Now that you are part of the GitHub docs community, see how else you
-can [contribute to the docs](/contributing/types-of-contributions.md).
+known as a PR. See our 
+[Pull Request template](.github/PULL_REQUEST_TEMPLATE.md) for a
+guide to prepare your PR.
 
 ## Attribution
 
