@@ -66,10 +66,6 @@ Commit the changes once you are happy with them. See ours [commit
 message guide](/.github/commit-message-guide.md) to know the best
 pratices for commit messages.
 
-Once your changes are ready, don't forget to
-[self-review](/.github/self-review.md) to speed up the review
-process:zap:.
-
 ### Pull Request
 
 When you're finished with the changes, create a pull request, also
