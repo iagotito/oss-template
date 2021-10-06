@@ -38,8 +38,7 @@ the apropriate [issue template](/.github/ISSUE_TEMPLATE)
 
 Scan through our [existing
 issues](link to issues) to find one that interests you. You can narrow
-down the search using `labels` as filters. See
-[Labels](/.github/how-to-use-labels.md) for more information.
+down the search using `labels` as filters.
 
 ### Steps to contribute
 
