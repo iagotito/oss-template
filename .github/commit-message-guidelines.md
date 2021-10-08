@@ -1,7 +1,7 @@
 ## Commit Message Guidelines
 
 ```
-<type>: Short (72 chars or less) summary
+Short (72 chars or less) summary
 
 More detailed explanatory text. Wrap it to 72 characters. The blank
 line separating the summary from the body is critical (unless you omit
@@ -21,7 +21,7 @@ Further paragraphs come after blank lines.
 ### Example for a commit message
 
 ```
-feat: Add CPU arch filter scheduler support
+Add CPU arch filter scheduler support
 
 In a mixed environment of…
 ```
@@ -56,7 +56,13 @@ https://wiki.openstack.org/wiki/GitCommitMessages#Information_in_commit_messages
 
 ### Semantic commit messages
 
-Starting a commit with it's type helps to understand what is it doing. 
+You can start a commit with it's type to helps to understand what is it
+doing. E.g.:
+
+```
+feat: Add date and time to messages
+```
+
 The allowed <type> values are:
 - `feat`: new feature for the user, not a new feature for build script
 - `fix`: bug fix for the user, not a fix to a build script
