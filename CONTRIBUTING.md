@@ -63,7 +63,7 @@ dependency management.
 ### Commit your update
 
 Commit the changes once you are happy with them. See ours [commit
-message guide](/.github/commit-message-guide.md) to know the best
+message guidelines](/.github/commit-message-guidelines.md) to know the best
 pratices for commit messages.
 
 ### Pull Request
