@@ -45,21 +45,6 @@ down the search using `labels` as filters.
 To start your changes, first fork this repository and create a new
 branch with a meaningful name related to the changes you intend to do.
 
-#### Dependency management
-
-> This should be different based on the used technology.
-
-This project uses some external Python packages listed on the
-`requirements.txt`. Use `pip` to install those dependencies:
-
-```shell
-pip3 install -r requirements.txt
-```
-
-We recommend to use a [virtual
-enviroment](https://docs.python.org/3/library/venv.html) to a better
-dependency management.
-
 ### Commit your update
 
 Commit the changes once you are happy with them. See ours [commit
